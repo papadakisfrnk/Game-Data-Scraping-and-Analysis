@@ -25,7 +25,7 @@ The script `main3.py` repeats the scraping process from Part A but without the o
 - `main3.py` - Script for Part C: Advanced data scraping.
 - `pandas_to_excel.xlsx` - Excel file containing the collected data.
 
-##Screenshots
+## Screenshots
 
 <img width="370" alt="image" src="https://github.com/user-attachments/assets/d8923afc-b762-402f-96bd-e50ab3c9b757">
 <img width="368" alt="image" src="https://github.com/user-attachments/assets/29c37a16-1d30-4f02-862b-9fd9333f4e06">
